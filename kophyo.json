@@ -2,6 +2,52 @@
    "files": [    
 
 {
+         "name": "AIS+PLAY",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+PLAY.ovpn"
+      },
+
+{
+         "name": "AIS+SOCIAL",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+SOCIAL.ovpn"
+      },
+
+{
+         "name": "DTAC+GO",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+GO.ovpn"
+      },
+
+{
+         "name": "DTAC+HAPPY",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+HAPPY.ovpn"
+      },
+
+{
+         "name": "DTAC+LAZADA",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+LAZADA.ovpn"
+      },
+
+{
+         "name": "DTAC+LINE",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+LINE.ovpn"
+      },
+
+{
+         "name": "DTAC+SOCIAL",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+SOCIAL.ovpn"
+      },
+
+{
+         "name": "True-Nopro-001",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+PLAY.ovpn"
+      },
+
+{
+         "name": "TRUE+NOPRO",
+         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+PLAY.ovpn"
+      },
+
+
+{
          "name": "True-Nopro-001",
          "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+01.ovpn"
       },
@@ -69,5 +115,5 @@
  ],
 "message":"TRUE NOPRO& DTAC90Days\n•Version:1\n•Update: 21 November 2021\n\n•Thanks You To Panel Owner\n•Owner By: Tyler Alvarez ",
    "title":"😘ရွှင်လန်း ချမ်း‌ေြမ့ ြကပါစေ😘" ,
-   "version": 3
+   "version": 4
 }
