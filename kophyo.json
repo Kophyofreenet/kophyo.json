@@ -3,7 +3,7 @@
 
 {
          "name": "AIS+PLAY",
-         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+PLAY.ovpn"
+         "url": "https://seafaring-hopes.000webhostapp.com/IN+AIS+PLAY.ovpn"
       },
 
 
@@ -28,20 +28,6 @@
          "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+LINE.ovpn"
       },
 
-{
-         "name": "DTAC+SOCIAL",
-         "url": "https://seafaring-hopes.000webhostapp.com/SG+DTAC+SOCIAL.ovpn"
-      },
-
-{
-         "name": "True-Nopro-001",
-         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+PLAY.ovpn"
-      },
-
-{
-         "name": "TRUE+NOPRO",
-         "url": "https://seafaring-hopes.000webhostapp.com/SG+AIS+PLAY.ovpn"
-      },
 
 
 {
@@ -112,5 +98,5 @@
  ],
 "message":"AIS TRUE NOPRO& DTAC90Days\n•Version:1\n•Update: 23 November 2021\n\n•Thanks You To Panel Owner\n•Config By: Ko Phyo Freenet",
    "title":"😘ရွှင်လန်း ချမ်း‌ေြမ့ ြကပါစေ😘" ,
-   "version": 9
+   "version": 10
 }
