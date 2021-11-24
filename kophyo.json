@@ -1,7 +1,7 @@
 {
    "files": [    
 {
-         "name": "True-Nopro-001",
+         "name": "True-Nopro-01",
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+01.ovpn"
                         },
 
@@ -17,10 +17,11 @@
          "name": "True-Nopro-04",
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+04.ovpn"
                         },
-                        {
-                                 "name": "True-Nopro-05",
-                                          "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+05.ovpn"
-                                                },
+{
+          "name": "True-Nopro-05",
+                  "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+05.ovpn"
+                        },
+                        
 {
          "name": "True-Nopro-06",
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+06.ovpn"
@@ -29,11 +30,12 @@
          "name": "True-Nopro-07",
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+07.ovpn"
                         },
-                        {
-                                 "name": "True-Nopro-08",
-                                          "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+08.ovpn"
-                                                },
 {
+         "name": "True-Nopro-08",
+                  "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+08.ovpn"
+                        },
+{
+                        
          "name": "True-Nopro-09",
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+09.ovpn"
                         },
@@ -46,7 +48,7 @@
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+11.ovpn"
                         },
 {
-         "name": "True-Nopro-13",
+         "name": "True-Nopro-12",
                   "url": "https://seafaring-hopes.000webhostapp.com/SG+TRUE+NOPRO+12.ovpn"
                         },
 {
@@ -55,8 +57,8 @@
                         }
 
  ],
- "message":"TRUE NOPRO& DTAC90Days\n•Version:2\n•Update: 21 November 2021\n\n•Thanks You To Panel Owner\n•Config By: Ko Phyo Freenet ",
+ "message":"TRUE NOPRO& DTAC90Days\n•Version:3\n•Update: 21 November 2021\n\n•Thanks You To Panel Owner\n•Config By: Ko Phyo Freenet ",
     "title":"😘ရွှင်လန်း ချမ်း‌ေြမ့ ြကပါစေ😘" ,
-       "version": 2
+       "version": 3
        }
        
