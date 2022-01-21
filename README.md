@@ -1,0 +1,2 @@
+# kophyo.json
+KoPhyoFreeNet
